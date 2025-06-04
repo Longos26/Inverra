@@ -22,7 +22,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Office Location</h3>
-                  <p className="text-gray-600">123 Tech Street, Digital City, TC 12345</p>
+                  <p className="text-gray-600">BLK 17 NARRA ST. Olongapo City</p>
                 </div>
               </div>
 
@@ -34,7 +34,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Phone Number</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">0970-203-3292</p>
                 </div>
               </div>
 
@@ -46,7 +46,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email Address</h3>
-                  <p className="text-gray-600">hello@inverra.com</p>
+                  <p className="text-gray-600">inverrainnovation@gmail.com</p>
                 </div>
               </div>
             </div>
