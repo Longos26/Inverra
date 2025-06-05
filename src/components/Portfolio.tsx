@@ -49,7 +49,7 @@ const Portfolio = () => {
     <section id="portfolio" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center space-y-4 mb-16">
-          <h2 className="text-4xl font-bold text-gray-900">Our Portfolio</h2>
+          <h2 className="text-4xl font-meduim text-gray-900">Our Portfolio</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Explore some of our recent projects across different industries and client types.
           </p>
@@ -68,7 +68,7 @@ const Portfolio = () => {
                   className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute top-4 left-4">
-                  <span className="bg-blue-600 text-white px-3 py-1 rounded-full text-sm font-medium">
+                  <span className="bg-black text-white px-3 py-1 rounded-full text-sm font-medium">
                     {project.category}
                   </span>
                 </div>
@@ -89,7 +89,7 @@ const Portfolio = () => {
                   ))}
                 </div>
                 
-                <button className="w-full bg-gray-100 hover:bg-blue-600 hover:text-white text-gray-700 py-3 rounded-lg font-medium transition-colors duration-300">
+                <button className="w-full bg-black hover:bg-grey-600 hover:text-white text-white py-3 rounded-lg font-medium transition-colors duration-300">
                   View Project
                 </button>
               </div>
@@ -98,7 +98,7 @@ const Portfolio = () => {
         </div>
 
         <div className="text-center mt-12">
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg text-lg font-medium transition-colors">
+          <button className="bg-black hover:bg-grey-700 text-white px-8 py-3 rounded-lg text-lg font-medium transition-colors">
             View All Projects
           </button>
         </div>
