@@ -46,8 +46,7 @@ const Hero = () => {
           <div className="relative">
             <div className="rounded-2xl p-2 flex items-center justify-center min-h-[350px]">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lacdSV_hfHAguoMmCKYJ9cyvVTJkyEP-ZQ&s"
-                alt="Hero"
+                src="https://onlinecs.baylor.edu/sites/default/files/field/image/shutterstock_2108122673%20-%201200x628%2016_9%20%281%29.jpg"
                 className="rounded-xl object-cover w-full h-full max-h-[400px] shadow-lg"
                 style={{ background: 'rgba(255,255,255,0.1)' }}
               />
